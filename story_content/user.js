@@ -2,25 +2,25 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5fHSyEx1sHb":
+      case "625LhXOVXbI":
         Script1();
         break;
-      case "6gSimfByImE":
+      case "6V3mGpVXUPH":
         Script2();
         break;
-      case "6PwZ4J0sKHF":
+      case "5VpwSIeSVrW":
         Script3();
         break;
-      case "6Gjre2zu58C":
+      case "6WukR3UbQMN":
         Script4();
         break;
-      case "5rFQ6CBrNof":
+      case "6Q1u4HpZRKD":
         Script5();
         break;
-      case "6Eu7Ya7WQeD":
+      case "6e5Gl7mHFgM":
         Script6();
         break;
-      case "6Dx5fc7eval":
+      case "6lBt9GJv5aF":
         Script7();
         break;
   }
@@ -33,7 +33,7 @@ function Script1()
 $.ajax({
 
 url:
-"https://script.google.com/macros/s/AKfycbyi0g1u8fMbaJaawLbn1lpRkFGed6zy7g06NYa09XNG7OunH2Ca2-E6n9ASpVJRYKMTqw/exec",
+"https://script.google.com/macros/s/AKfycbxogWlaHI8ilUjtz9KNZHW93Hjnqzym_R31UJjt9NPbdpSaeDUqg6Xe5xuudBeoP-iMaA/exec",
 
 type: "POST",
 
@@ -70,7 +70,7 @@ function Script2()
 $.ajax({
 
 url:
-"https://script.google.com/macros/s/AKfycbyi0g1u8fMbaJaawLbn1lpRkFGed6zy7g06NYa09XNG7OunH2Ca2-E6n9ASpVJRYKMTqw/exec",
+"https://script.google.com/macros/s/AKfycbxogWlaHI8ilUjtz9KNZHW93Hjnqzym_R31UJjt9NPbdpSaeDUqg6Xe5xuudBeoP-iMaA/exec",
 
 type: "POST",
 
